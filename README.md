@@ -1,4 +1,4 @@
-# 2048
+## 2048
 Simple script to have a relatively high score in 2048!
 Click [here][gm] for the game!
 
