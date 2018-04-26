@@ -1,5 +1,5 @@
 # 2048
-Simple script to have a _relatively_ high score in 2048!
+_Simple_ script to have a _relatively_ high score in 2048!
 Click [here][gm] for the game!
 
 ### Requirements:  
